@@ -24,7 +24,7 @@ This plugin is also working on Multisite installs, adding the right sitemap for 
 
 **Do you want to contribute or help improving this plugin?**
 
-You can find it on GitHub: [https://github.com/Surbma/surbma-yoast-seo-sitemap-to-robots-txt](https://github.com/Surbma/surbma-yoast-seo-sitemap-to-robots-txt)
+You can find it on GitHub: [https://github.com/Surbma/surbma-yoast-seo-sitemap-to-robotstxt](https://github.com/Surbma/surbma-yoast-seo-sitemap-to-robotstxt)
 
 **You can find my other plugins and projects on GitHub:**
 
