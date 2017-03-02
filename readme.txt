@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: yoast, yoast seo, wordpress seo, sitemap, XML sitemap, robots.txt, multisite
 Requires at least: 3.0
 Tested up to: 4.7
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,7 @@ If you don't have a separate robots.txt file on the server, than WordPress autom
 
 This plugin will add the Yoast SEO plugin's XML Sitemap URL to the virtual robots.txt file, so search bots will find your sitemap and can crawl your site easily.
 
-** Multisite Network installs **
+**Multisite Network installs**
 
 This plugin is also working on Multisite installs, adding the right sitemap for all your subsites. The plugin checks, if Yoast SEO plugin is activated and if the XML Sitemap is enabled on the sites, so it will add the sitemap URL only, if the sitemap exists.
 
@@ -58,8 +58,11 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.0.1 =
+
+- Minor typo fixes.
+
 = 1.0.0 =
 
 - Initial release.
-- Added localization.
 - First commit to WordPress repo.
