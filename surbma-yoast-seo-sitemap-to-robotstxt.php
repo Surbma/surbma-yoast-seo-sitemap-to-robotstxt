@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Surbma - Yoast SEO Sitemap to robots.txt
+Plugin Name: Yoast SEO Sitemap to robots.txt
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Adds Yoast SEO generated XML Sitemap to the virtual robots.txt file.
 

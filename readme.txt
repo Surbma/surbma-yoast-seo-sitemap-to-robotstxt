@@ -1,9 +1,9 @@
-=== Surbma - Yoast SEO Sitemap to robots.txt ===
+=== Yoast SEO Sitemap to robots.txt ===
 Contributors: Surbma
 Donate link: https://surbma.com/donate/
 Tags: yoast, yoast seo, wordpress seo, sitemap, XML sitemap, robots.txt, multisite
-Requires at least: 3.0
-Tested up to: 4.8
+Requires at least: 4.0
+Tested up to: 4.9
 Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
