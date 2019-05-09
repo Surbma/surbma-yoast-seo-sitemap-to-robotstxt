@@ -1,10 +1,11 @@
-=== Surbma - Yoast SEO Sitemap to robots.txt ===
+=== Surbma | Yoast SEO Sitemap to robots.txt ===
 Contributors: Surbma
 Donate link: https://surbma.com/donate/
 Tags: yoast, yoast seo, wordpress seo, sitemap, XML sitemap, robots.txt, multisite
 Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 1.0.2
+Tested up to: 5.2
+Stable tag: 1.1
+Requires PHP: 5.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +58,15 @@ Good question, but I don't know the answer.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1 =
+
+- Release date: 2019-05-09
+- TWEAK - Minor changes in description.
+- TWEAK - New shorter version numbering.
+- Tested up to WordPress 5.2 version.
+- Tested up to Yoast SEO 11.x version.
+- Added minimum PHP requirement.
 
 = 1.0.2 =
 
