@@ -1,11 +1,11 @@
 === Surbma | Yoast SEO Sitemap to robots.txt ===
-Contributors: Surbma
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: yoast, yoast seo, wordpress seo, sitemap, XML sitemap, robots.txt, multisite
-Requires at least: 4.0
-Tested up to: 5.2
-Stable tag: 1.1
-Requires PHP: 5.6
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 5.6.20
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,7 +40,7 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 == Installation ==
 
 1. Upload `surbma-yoast-seo-sitemap-to-robots-txt` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Yoast SEO Sitemap to robots.txt plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Yoast SEO Sitemap to robots.txt plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -58,6 +58,24 @@ Good question, but I don't know the answer.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-02-10
+
+IMPORTANT! Only update if you already updated Yoast SEO plugin to 13.0 or above! This version will work only with the new version. If you didn't update the Yoast SEO plugin yet, you can keep the 1.1 version of this plugin also, it is working without any problem.
+
+It is always recommended to use the latest versions of plugins, so please do update Yoast SEO to 13.0 or above and do the update also for my plugin!
+
+FIX
+
+- Yoast SEO 13.0 changed the option for XML sitemaps. (Props: @iarovuo)
+
+TWEAK
+
+- Minor changes in title and description.
+- Tested with WordPress 5.3 version.
+- Updated to use a new way to deploy it to wp.org repo.
 
 = 1.1 =
 
