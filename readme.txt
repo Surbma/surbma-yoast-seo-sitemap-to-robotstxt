@@ -3,7 +3,7 @@ Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: yoast, yoast seo, wordpress seo, sitemap, XML sitemap, robots.txt, multisite
 Requires at least: 5.1
-Tested up to: 5.8
+Tested up to: 6.2
 Stable tag: 2.0
 Requires PHP: 5.6.20
 License: GPLv2
